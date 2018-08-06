@@ -65,7 +65,7 @@ shopping table --> collections products
 
 9.- open another cmd pointing where you save your the app.
 
-10.- run npm star
+10.- run npm start
 
 11.- Voila!!
 
