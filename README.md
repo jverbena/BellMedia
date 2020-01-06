@@ -1,5 +1,5 @@
 # BellMedia
-Test
+Shopping Cart
 
 in Order to run the cart app please follow the steps.
 
@@ -76,9 +76,6 @@ shopping table --> collections products
 14.-click on shopping cart to open the cart.
 
 
-
-Note:
-AJAX didn't work for my dbmongo implementation it fail a couple of times so I decided to go with another approche!
 
 please let me if you need something ;)
 
