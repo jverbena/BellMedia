@@ -1,6 +1,6 @@
 Shopping Cart
 
-in Order to run the cart app please follow the steps.
+In Order to run the cart app please follow the steps.
 
 1.- install mongoDB
 2.- install nodeJS
