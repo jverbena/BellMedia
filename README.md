@@ -1,4 +1,3 @@
-# BellMedia
 Shopping Cart
 
 in Order to run the cart app please follow the steps.
